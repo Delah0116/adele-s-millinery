@@ -102,3 +102,8 @@ body {
 #about-sec{
     display: flex;
 }
+
+.trial{
+    font-size: 30px;
+    text-align: center;
+}
