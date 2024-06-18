@@ -103,6 +103,7 @@ body {
 
 .abt-sec{
     display: flex;
+<<<<<<< HEAD
     margin: 2rem;
     padding: 4rem;
 }
@@ -308,3 +309,11 @@ body {
   }
 
 
+=======
+}
+
+.trial{
+    font-size: 30px;
+    text-align: center;
+}
+>>>>>>> 9679ebcf1744f9d8fda5fff17364cddea44d60c9
